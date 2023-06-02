@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- action button for search -->
+    <item android:title="@string/share"
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share"/>
+
+    <!-- action button for refresh -->
+    <item android:title="@string/refresh"
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_refresh"/>
+
+    <!-- action button for copy -->
+    <item android:title="@string/action_bookmark"
+        android:id="@+id/action_bookmark"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_bookmark_light"/>
+</menu>

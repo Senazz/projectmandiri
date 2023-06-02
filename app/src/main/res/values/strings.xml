@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">food recipe</string>
+    <string name="food_name">es buah segar pak anies</string>
+    <string name="my_name">bagasena danawira</string>
+    <string name="username">senazz100</string>
+    <string name="location">Malang</string>
+    <string name="description"> Segar, manis, dan menyegarkan. Potongan buah bercampur soda yang segar, es renyah, dan sirup lezat, menyatukan kelezatan dalam setiap suapan.Ini dia! resep es buah soda.</string>
+    <string name="read_more"><u>baca selengkapnya</u></string>
+    <string name="ingredient">Bahan-bahan</string>
+    <string name="ing1">1/2 kg pepaya.</string>
+    <string name="ing2">1/2 kg buah mangga.</string>
+    <string name="ing3">1/2 kg buah nanas.</string>
+    <string name="ing4">1/2 kg buah naga.</string>
+    <string name="ing5">1/2 kg buah apel.</string>
+    <string name="ing6">1/2 kg buah pir.</string>
+    <string name="ing7">1/4 kg gula pasir.</string>
+    <string name="ing8">1/2 kg kelapa muda.</string>
+    <string name="ing9">Es batu secukupnya.</string>
+    <string name="step_by_step">Cara Membuat</string>
+    <string name="step1">Potong dadu semua buah-buahan di atas.</string>
+    <string name="step2">Cuci kolang-kaling hingga bersih, belah menjadi dua bagian.</string>
+    <string name="step3">Rebus kolang-kaling sampai matang dan empuk kemudian angkat dan tiriskan.</string>
+    <string name="step4">Siapkan gelas atau mangkuk, masukkan semua potongan buah.</string>
+    <string name="step5">Tambahkan sirup cocopandan, soda, dan es batu.</string>
+    <string name="step6">Resep es buah soda sudah siap dinikmati.</string>
+    <string name="result_share">Kesan Resep</string>
+    <string name="share_desc">Sudah mencoba? Bagikan foto hasil kreasi kulinermu dari resep ini!</string>
+    <string name="bookmark">Cookmark</string>
+    <string name="bookmark_desc">Tambahkan resep ini sebagai koleksi dari karya kulinermu!</string>
+    <string name="comment">Komentar</string>
+    <string name="comment_desc">Belum ada komentar. Jadilah yang pertama berkomentar di sini!</string>
+    <string name="add_comment">Tambahkan Komentar</string>
+    <string name="share">share</string>
+    <string name="refresh">refresh</string>
+    <string name="action_bookmark">bookmark</string>
+
+</resources>
